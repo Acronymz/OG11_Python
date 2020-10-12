@@ -1,2 +1,1 @@
-# OG11_Python
-OG11 Petrovych Dmitriy // Homework
+# OG11 Petrovych Dmitriy // Homework
