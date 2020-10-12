@@ -1,0 +1,10 @@
+numberOne = input("Enter the first number: ");
+numberTwo = input("Enter the second number: ");
+print("Сложение");
+print(int(numberOne) + int(numberTwo));
+print("Вычитание");
+print(int(numberOne) - int(numberTwo));
+print("Умножение");
+print(int(numberOne) * int(numberTwo));
+print("Деление");
+print(int(numberOne) / int(numberTwo));
