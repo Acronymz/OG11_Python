@@ -7,7 +7,7 @@ sql.execute("""CREATE TABLE IF NOT EXISTS Работник (
    id INT PRIMARY KEY,
    name TEXT,
    surname TEXT,
-   gender INT,
+   gender TEXT,
    age INT);
 """)
 
