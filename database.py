@@ -47,8 +47,3 @@ print(results)
 sql.execute("SELECT * FROM Должность;")
 results = sql.fetchall()
 print(results)
-
-
-
-
-
